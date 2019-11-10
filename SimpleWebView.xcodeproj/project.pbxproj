@@ -13,6 +13,7 @@
 		02E16CA623780F9600EF5BC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02E16CA523780F9600EF5BC2 /* Assets.xcassets */; };
 		02E16CA923780F9600EF5BC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02E16CA823780F9600EF5BC2 /* Preview Assets.xcassets */; };
 		02E16CAC23780F9600EF5BC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02E16CAA23780F9600EF5BC2 /* LaunchScreen.storyboard */; };
+		02E16CB4237810F700EF5BC2 /* MyWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E16CB3237810F700EF5BC2 /* MyWebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		02E16CA823780F9600EF5BC2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		02E16CAB23780F9600EF5BC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02E16CAD23780F9600EF5BC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02E16CB3237810F700EF5BC2 /* MyWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				02E16CAA23780F9600EF5BC2 /* LaunchScreen.storyboard */,
 				02E16CAD23780F9600EF5BC2 /* Info.plist */,
 				02E16CA723780F9600EF5BC2 /* Preview Content */,
+				02E16CB3237810F700EF5BC2 /* MyWebView.swift */,
 			);
 			path = SimpleWebView;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02E16CA023780F9500EF5BC2 /* AppDelegate.swift in Sources */,
+				02E16CB4237810F700EF5BC2 /* MyWebView.swift in Sources */,
 				02E16CA223780F9500EF5BC2 /* SceneDelegate.swift in Sources */,
 				02E16CA423780F9500EF5BC2 /* ContentView.swift in Sources */,
 			);

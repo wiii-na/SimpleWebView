@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello World")
+        WebView(loadUrl: "https://www.apple.com")
     }
 }
 
