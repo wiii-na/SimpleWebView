@@ -1,2 +1,8 @@
 # SimpleWebView
-SimpleWebView using SwiftUI
+SwiftUIを使ったWebViewのサンプル
+
+## Usage
+
+<pre>
+WebView(loadUrl: "https://www.apple.com")
+</pre>
